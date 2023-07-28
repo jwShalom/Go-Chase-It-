@@ -1,0 +1,8 @@
+prefix=/home/jerry7017/Robotics_Portfolio/Go-Chase-It-/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/jerry7017/Robotics_Portfolio/Go-Chase-It-/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

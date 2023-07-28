@@ -1,0 +1,8 @@
+prefix=/home/jerry7017/Robotics_Portfolio/Go-Chase-It-/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
